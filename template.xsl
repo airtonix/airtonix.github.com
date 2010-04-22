@@ -17,9 +17,9 @@
 				<meta name="robots" content="index, follow" />
 
 				<!-- CSS -->
-				<link href="/www-core/airtonix/css/div-row-col.css" rel="stylesheet" type="text/css" media="all"/>
-				<link href="/www-core/airtonix/css/horizontal-menu.css" rel="stylesheet" type="text/css" media="all"/>
-				<link href="/www-core/airtonix/css/redfire.css" rel="stylesheet" type="text/css" media="all"/>	
+				<link href="./css/div-row-col.css" rel="stylesheet" type="text/css" media="all"/>
+				<link href="./css/horizontal-menu.css" rel="stylesheet" type="text/css" media="all"/>
+				<link href="./css/main.css" rel="stylesheet" type="text/css" media="all"/>	
 				
 			</head>
 			<body>
