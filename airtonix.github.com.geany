@@ -1,0 +1,17 @@
+
+[indentation]
+indent_width=2
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+indent_mode=2
+
+[project]
+name=airtonix.github.com
+base_path=/var/www/airtonix.github.com/airtonix.github.com/
+make_in_base_path=false
+description=
+run_cmd=
+
+[files]
+current_page=-1

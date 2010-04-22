@@ -1,5 +1,5 @@
 <?xml version="1.0" standalone="yes"?>
-<?xml-stylesheet href="/www-core/airtonix/template.xsl" type="text/xsl"?>
+<?xml-stylesheet href="./template.xsl" type="text/xsl"?>
 <document>
 	<siteheader>
 		<title>.Me</title>
