@@ -13,43 +13,15 @@
 	margin:0em;
 }
 
-.inner, .row-inner, .col-inner{
+.inner{
 	padding:0em;
 	margin:0em;
 	display:block;
 	width:100%;
 	height:100%;
 }
-.border-right{
-	border-right:1px dotted silver;
-}
-.border-left{
-	border-left:1px dotted silver;
-}
-.border-top{
-	border-top:1px dotted silver;
-}
-.border-bottom{
-	border-bottom:1px dotted silver;
-}
 
-* html .border-right{
-	background: transparent url("../images/dot.gif") repeat-y  top right ; 
-	border:none;
-}
-* html .border-left{
-	background: transparent url("../images/dot.gif") repeat-y  top left ; 
-	border:none;
-}
-* html .border-top{
-	background: transparent url("../images/dot.gif") repeat-x  top left ; 
-	border:none;
-}
-* html .border-bottom{
-	background: transparent url("../images/dot.gif") repeat-x  bottom left ; 
-	border:none;
-}
-.close-row, .breaker, .break{
+.break{
 	clear:both;
 	display:block;
 	height:0px;
@@ -57,20 +29,6 @@
 	margin:0em;
 }
 
-.padding-0-1{
-	padding:.1em;
-}
-.padding-0-5{
-
-	padding:.5em;
-}
-.padding-1{
-	padding:1em;
-}
-
-
-
-	
 /* widths */
 .width-1{width:1%;}
 .width-2{width:2%;}
@@ -274,120 +232,6 @@
 .height-99{height:99%;}
 .height-100{height:100%;}
 
-/* edges */
-
-.left-edge{
-	display:inline;
-}
-.right-edge{
-	display:inline;
-}
-.top-edge{
-
-}
-.bottom-edge{
-
-}
-
-
-/* dots */
-	.vertDots-1{ background: transparent url("../images/dot.gif") repeat-y  1% 0% ; }
-	.vertDots-2{ background: transparent url("../images/dot.gif") repeat-y  2% 0% ; }
-	.vertDots-3{ background: transparent url("../images/dot.gif") repeat-y  3% 0% ; }
-	.vertDots-4{ background: transparent url("../images/dot.gif") repeat-y  4% 0% ; }
-	.vertDots-5{ background: transparent url("../images/dot.gif") repeat-y  5% 0% ; }
-	.vertDots-6{ background: transparent url("../images/dot.gif") repeat-y  6% 0% ; }
-	.vertDots-7{ background: transparent url("../images/dot.gif") repeat-y  7% 0% ; }
-	.vertDots-8{ background: transparent url("../images/dot.gif") repeat-y  8% 0% ; }
-	.vertDots-9{ background: transparent url("../images/dot.gif") repeat-y  9% 0% ; }
-	.vertDots-10{ background: transparent url("../images/dot.gif") repeat-y  10% 0% ; }
-	.vertDots-11{ background: transparent url("../images/dot.gif") repeat-y  11% 0% ; }
-	.vertDots-12{ background: transparent url("../images/dot.gif") repeat-y  12% 0% ; }
-	.vertDots-13{ background: transparent url("../images/dot.gif") repeat-y  13% 0% ; }
-	.vertDots-14{ background: transparent url("../images/dot.gif") repeat-y  14% 0% ; }
-	.vertDots-15{ background: transparent url("../images/dot.gif") repeat-y  15% 0% ; }
-	.vertDots-16{ background: transparent url("../images/dot.gif") repeat-y  16% 0% ; }
-	.vertDots-17{ background: transparent url("../images/dot.gif") repeat-y  17% 0% ; }
-	.vertDots-18{ background: transparent url("../images/dot.gif") repeat-y  18% 0% ; }
-	.vertDots-19{ background: transparent url("../images/dot.gif") repeat-y  19% 0% ; }
-	.vertDots-20{ background: transparent url("../images/dot.gif") repeat-y  20% 0% ; }
-	.vertDots-21{ background: transparent url("../images/dot.gif") repeat-y  21% 0% ; }
-	.vertDots-22{ background: transparent url("../images/dot.gif") repeat-y  22% 0% ; }
-	.vertDots-23{ background: transparent url("../images/dot.gif") repeat-y  23% 0% ; }
-	.vertDots-24{ background: transparent url("../images/dot.gif") repeat-y  24% 0% ; }
-	.vertDots-25{ background: transparent url("../images/dot.gif") repeat-y  25% 0% ; }
-	.vertDots-30{ background: transparent url("../images/dot.gif") repeat-y  30% 0% ; }
-	.vertDots-31{ background: transparent url("../images/dot.gif") repeat-y  31% 0% ; }
-	.vertDots-32{ background: transparent url("../images/dot.gif") repeat-y  32% 0% ; }
-	.vertDots-33{ background: transparent url("../images/dot.gif") repeat-y  33% 0% ; }
-	.vertDots-34{ background: transparent url("../images/dot.gif") repeat-y  34% 0% ; }
-	.vertDots-35{ background: transparent url("../images/dot.gif") repeat-y  35% 0% ; }
-	.vertDots-36{ background: transparent url("../images/dot.gif") repeat-y  36% 0% ; }
-	.vertDots-37{ background: transparent url("../images/dot.gif") repeat-y  37% 0% ; }
-	.vertDots-38{ background: transparent url("../images/dot.gif") repeat-y  38% 0% ; }
-	.vertDots-39{ background: transparent url("../images/dot.gif") repeat-y  39% 0% ; }
-	.vertDots-40{ background: transparent url("../images/dot.gif") repeat-y  40% 0% ; }
-	.vertDots-41{ background: transparent url("../images/dot.gif") repeat-y  41% 0% ; }
-	.vertDots-42{ background: transparent url("../images/dot.gif") repeat-y  42% 0% ; }
-	.vertDots-43{ background: transparent url("../images/dot.gif") repeat-y  43% 0% ; }
-	.vertDots-44{ background: transparent url("../images/dot.gif") repeat-y  44% 0% ; }
-	.vertDots-45{ background: transparent url("../images/dot.gif") repeat-y  45% 0% ; }
-	.vertDots-46{ background: transparent url("../images/dot.gif") repeat-y  46% 0% ; }
-	.vertDots-47{ background: transparent url("../images/dot.gif") repeat-y  47% 0% ; }
-	.vertDots-48{ background: transparent url("../images/dot.gif") repeat-y  48% 0% ; }
-	.vertDots-49{ background: transparent url("../images/dot.gif") repeat-y  49% 0% ; }
-	.vertDots-50{ background: transparent url("../images/dot.gif") repeat-y  50% 0% ; }
-	.vertDots-51{ background: transparent url("../images/dot.gif") repeat-y  51% 0% ; }
-	.vertDots-52{ background: transparent url("../images/dot.gif") repeat-y  52% 0% ; }
-	.vertDots-53{ background: transparent url("../images/dot.gif") repeat-y  53% 0% ; }
-	.vertDots-54{ background: transparent url("../images/dot.gif") repeat-y  54% 0% ; }
-	.vertDots-55{ background: transparent url("../images/dot.gif") repeat-y  55% 0% ; }
-	.vertDots-56{ background: transparent url("../images/dot.gif") repeat-y  56% 0% ; }
-	.vertDots-57{ background: transparent url("../images/dot.gif") repeat-y  57% 0% ; }
-	.vertDots-58{ background: transparent url("../images/dot.gif") repeat-y  58% 0% ; }
-	.vertDots-59{ background: transparent url("../images/dot.gif") repeat-y  59% 0% ; }
-	.vertDots-60{ background: transparent url("../images/dot.gif") repeat-y  60% 0% ; }
-	.vertDots-61{ background: transparent url("../images/dot.gif") repeat-y  61% 0% ; }
-	.vertDots-62{ background: transparent url("../images/dot.gif") repeat-y  62% 0% ; }
-	.vertDots-63{ background: transparent url("../images/dot.gif") repeat-y  63% 0% ; }
-	.vertDots-64{ background: transparent url("../images/dot.gif") repeat-y  64% 0% ; }
-	.vertDots-65{ background: transparent url("../images/dot.gif") repeat-y  65% 0% ; }
-	.vertDots-66{ background: transparent url("../images/dot.gif") repeat-y  66% 0% ; }
-	.vertDots-67{ background: transparent url("../images/dot.gif") repeat-y  67% 0% ; }
-	.vertDots-68{ background: transparent url("../images/dot.gif") repeat-y  68% 0% ; }
-	.vertDots-69{ background: transparent url("../images/dot.gif") repeat-y  69% 0% ; }
-	.vertDots-70{ background: transparent url("../images/dot.gif") repeat-y  70% 0% ; }
-	.vertDots-71{ background: transparent url("../images/dot.gif") repeat-y  71% 0% ; }
-	.vertDots-72{ background: transparent url("../images/dot.gif") repeat-y  72% 0% ; }
-	.vertDots-73{ background: transparent url("../images/dot.gif") repeat-y  73% 0% ; }
-	.vertDots-74{ background: transparent url("../images/dot.gif") repeat-y  74% 0% ; }
-	.vertDots-75{ background: transparent url("../images/dot.gif") repeat-y  75% 0% ; }
-	.vertDots-76{ background: transparent url("../images/dot.gif") repeat-y  76% 0% ; }
-	.vertDots-77{ background: transparent url("../images/dot.gif") repeat-y  77% 0% ; }
-	.vertDots-78{ background: transparent url("../images/dot.gif") repeat-y  78% 0% ; }
-	.vertDots-79{ background: transparent url("../images/dot.gif") repeat-y  79% 0% ; }
-	.vertDots-80{ background: transparent url("../images/dot.gif") repeat-y  80% 0% ; }
-	.vertDots-81{ background: transparent url("../images/dot.gif") repeat-y  81% 0% ; }
-	.vertDots-82{ background: transparent url("../images/dot.gif") repeat-y  82% 0% ; }
-	.vertDots-83{ background: transparent url("../images/dot.gif") repeat-y  83% 0% ; }
-	.vertDots-84{ background: transparent url("../images/dot.gif") repeat-y  84% 0% ; }
-	.vertDots-85{ background: transparent url("../images/dot.gif") repeat-y  85% 0% ; }
-	.vertDots-86{ background: transparent url("../images/dot.gif") repeat-y  86% 0% ; }
-	.vertDots-87{ background: transparent url("../images/dot.gif") repeat-y  87% 0% ; }
-	.vertDots-88{ background: transparent url("../images/dot.gif") repeat-y  88% 0% ; }
-	.vertDots-89{ background: transparent url("../images/dot.gif") repeat-y  89% 0% ; }
-	.vertDots-90{ background: transparent url("../images/dot.gif") repeat-y  90% 0% ; }
-	.vertDots-91{ background: transparent url("../images/dot.gif") repeat-y  91% 0% ; }
-	.vertDots-92{ background: transparent url("../images/dot.gif") repeat-y  92% 0% ; }
-	.vertDots-93{ background: transparent url("../images/dot.gif") repeat-y  93% 0% ; }
-	.vertDots-94{ background: transparent url("../images/dot.gif") repeat-y  94% 0% ; }
-	.vertDots-95{ background: transparent url("../images/dot.gif") repeat-y  95% 0% ; }
-	.vertDots-96{ background: transparent url("../images/dot.gif") repeat-y  96% 0% ; }
-	.vertDots-97{ background: transparent url("../images/dot.gif") repeat-y  97% 0% ; }
-	.vertDots-98{ background: transparent url("../images/dot.gif") repeat-y  98% 0% ; }
-	.vertDots-99{ background: transparent url("../images/dot.gif") repeat-y  99% 0% ; }
-	.vertDots-100{ background: transparent url("../images/dot.gif") repeat-y  100% 0% ; }
-
-	.row-dots{ background: transparent url("../images/dot.gif") repeat-x  top left ; }
-	.col-dots{ background: transparent url("../images/dot.gif") repeat-y  top left ; }
+.row-dots{ background: transparent url("../images/dot.gif") repeat-x  top left ; }
+.col-dots{ background: transparent url("../images/dot.gif") repeat-y  top left ; }
 
