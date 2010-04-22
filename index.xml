@@ -1,0 +1,180 @@
+<?xml version="1.0" standalone="yes"?>
+<?xml-stylesheet href="/www-core/airtonix/template.xsl" type="text/xsl"?>
+<document>
+	<siteheader>
+		<title>.Me</title>
+		<description type="name">zenobius.jiricek</description>
+		<description type="abn">94 096 450 759</description>
+	</siteheader>
+
+	<page>
+
+		<section feature="true">
+			<title weight="2" >.me</title>
+			<content>
+			
+				<group title="Documents">
+					<items title="Calendar">
+						<item href="./calendar/ZenobiusJiricek_Public.ics" icon="calendar">Public</item>
+					</items>
+					<items title="Resumes">
+						<item href="" icon="resume">Technology</item>
+						<item href="" icon="resume">Hospitality</item>
+						<item href="" icon="resume">Manufacturing</item>
+					</items>
+				</group>
+				
+				<group title="Groups">
+				  <items title="Linux">
+						<item href="https://launchpad.net/~team1" icon="groups">Nautilus info columns</item>
+				  </items>
+				</group>
+
+				<group title="School">
+				  <items title="Tafe-Cert3">
+						<item href="/Tafe/cert3/IT/Programming/" icon="groups">Programming</item>
+						<item href="/Tafe/cert3/IT/install &amp; configure/" icon="groups">install &amp; configure</item>
+						<item href="/Tafe/cert3/IT/network essentials/" icon="groups">network essentials</item>
+						<item href="/Tafe/cert3/IT/network fundamentals/" icon="groups">network fundamentals</item>
+						<item href="/Tafe/cert3/IT/working with clients/" icon="groups">	working with clients</item>
+				  </items>
+				</group>
+				
+			</content>	
+		</section>
+		
+		<section>
+			<title weight="2" >.media</title>
+			<content>
+				<group title="Music">
+					<items title="RhythmBox Media Library">
+						<item href="./music-library/">./music-library/</item>
+					</items>
+				</group>
+			</content>	
+		</section>
+
+		<section>
+			<title weight="2" >.code</title>
+			<content>
+				<group title="Scripts">
+					<items title="Mine">
+						<item href="./nautilus-scripts/">./nautilus-scripts/</item>
+						<item href="./bin-scripts/">./bin-scripts/</item>
+					</items>
+				</group>
+			</content>	
+		</section>
+		
+		<section>
+			<title weight="2" >.docs</title>
+			<content>
+			
+				<group title="All">
+					<items>
+						<item href="/wiki/system-docs/">main index</item>
+					</items>
+				</group>
+				
+				<group title="Markup">
+					  <items title="eXstensible Markup Language">...</items>
+					  <items title="eXstensible Stylesheet Language &amp; Transforms">
+							<item href="/wiki/webdev/xml/xsl.html">xsl</item>
+							<item href="/wiki/webdev/xml/xslt.html">xslt</item>
+					 </items>
+					 <items title="eXstensible Path">
+							<item href="/wiki/webdev/xml/xpath.html">XML Path Language</item>
+					</items>
+					<items title="Cascading Style Sheets">
+						<item href="/wiki/webdev/css/css2/cover.html">CSS2</item>
+						<item href="/wiki/webdev/css/CSS%20Print%20Profile.html">CSS3 Print</item>
+						<item href="/wiki/webdev/css/CSS3%20Module%20%20Paged%20Media.html">CSS3 Module: Paged Media</item>
+					</items>
+					<items title="Hypter Text Markup Language">
+						<item href="/wiki/webdev/HTML5.html">html5 [local]</item>
+						<item href="http://www.w3.org/TR/html5/">html5 :: recent</item>
+					</items>
+				</group>
+
+				
+				<group title="Programming">
+					  <items title="Git">
+							<item href="/wiki/git-cheat-sheet.html">git quick sheet</item>
+							<item href="/wiki/GitFaq.html">Git Faq</item>
+					  </items>
+					  <items title="python">
+							<item href="/wiki/system-docs/python-doc/html/">python-doc</item>
+							<item href="/wiki/system-docs/python-gnome2-doc/pygnomevfs/html/">pygnomevfs</item>
+							<item href="/wiki/system-docs/python-gnome2-extras/examples/recent/">python-gnome2-extras/examples</item>
+							<item href="/wiki/system-docs/python-gtkhtml2/examples/">python-gtkhtml2/examples</item>
+							<item href="/wiki/system-docs/python-nautilus/examples/">python-nautilus/examples</item>
+							<item href="/wiki/system-docs/python-eggtrayicon/examples/">python-eggtrayicon/examples</item>
+							<item href="/wiki/system-docs/python-genshi-doc/html/">python-genshi-doc</item>
+							<item href="/wiki/system-docs/python-pyinotify-doc/html/">python-pyinotify-doc</item>
+							<item href="/wiki/system-docs/ipython/manual/html/">python-ipython.</item>
+							<item href="/wiki/system-docs/libapache2-mod-python-doc/doc-html/">apache-mod-python</item>
+							<item href="/wiki/system-docs/python-4suite-doc/">python-4suite-doc</item>
+							<item href="/wiki/system-docs/python-alsaaudio/">python-alsaaudio</item>
+							<item href="/wiki/system-docs/python-apport/README">python-apport</item>
+							<item href="/wiki/system-docs/python-apt/html/">python-apt</item>
+							<item href="/wiki/system-docs/python-bluez/examples">python-bluez</item>
+							<item href="/wiki/system-docs/python-boto/README">python-boto</item>
+							<item href="/wiki/system-docs/python-daap/README">python-daap/readme</item>
+							<item href="/wiki/system-docs/python-daap/examples">python-daap/examples</item>
+							<item href="/wiki/system-docs/python-gtk2-doc/html">python-gtk2-doc/html</item>
+						</items>
+						
+					  <items title="python-django">
+							<item href="/wiki/system-docs/python-django-doc/html/index.html">python-django</item>
+							<item href="/wiki/system-docs/python-django-contact-form/">python-django-contact-form</item>
+							<item href="/wiki/system-docs/python-django-debug-toolbar/">python-django-debug-toolbar</item>
+							<item href="/wiki/system-docs/python-django-djblets/">python-django-djblets</item>
+							<item href="/wiki/system-docs/python-django-dmigrations/">python-django-dmigrations</item>
+							<item href="/wiki/system-docs/python-django-doc/">python-django-doc</item>
+							<item href="/wiki/system-docs/python-django-evolution/">python-django-evolution</item>
+							<item href="/wiki/system-docs/python-django-extensions/">python-django-extensions</item>
+							<item href="/wiki/system-docs/python-django-filebrowser/">python-django-filebrowser</item>
+							<item href="/wiki/system-docs/python-django-formfieldset/">python-django-formfieldset</item>
+							<item href="/wiki/system-docs/python-django-lint/">python-django-lint</item>
+							<item href="/wiki/system-docs/python-django-openid-auth/">python-django-openid-auth</item>
+							<item href="/wiki/system-docs/python-django-registration/">python-django-registration</item>
+							<item href="/wiki/system-docs/python-django-south/">python-django-south</item>
+							<item href="/wiki/system-docs/python-django-squeeze/">python-django-squeeze</item>
+							<item href="/wiki/system-docs/python-django-swordfish/">python-django-swordfish</item>
+							<item href="/wiki/system-docs/python-django-tagging/">python-django-tagging</item>
+							<item href="/wiki/system-docs/python-django-tinymce/">python-django-tinymce</item>
+							<item href="/wiki/system-docs/python-django-treebeard-doc/">python-django-treebeard-doc</item>
+							<item href="/wiki/system-docs/python-django-treebeard/">python-django-treebeard</item>
+					  </items>
+				 </group>
+
+				<group title="Command Line">
+					  <items title="imagemagick">
+						<item href="/wiki/system-docs/imagemagick/www/"> index</item>
+					  </items>
+				</group>
+
+				<group title="Server Processes">
+					<items title="Mail Filtering">
+						<item href="/wiki/system-docs/bogofilter/bogofilter-faq.html">bogofilter</item>
+						<item href="/wiki/system-docs/bogofilter/integrating-with-postfix">bogofilter with postfix</item>
+						<item href="/wiki/system-docs/bogofilter/integrating-with-qmail">bogofilter with qmail</item>
+					</items>
+				</group>
+
+			</content>	
+		</section>
+
+		<section>
+			<title weight="2" >.webmin</title>
+			<content>
+				<group title="Local Services">
+					<items title="Printing">
+						<item href="LOCALHOST:631/">CUPS Admin</item>
+					</items>
+				</group>
+			</content>	
+		</section>
+	</page>
+</document>
+
