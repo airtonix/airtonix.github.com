@@ -1,0 +1,41 @@
+/*
+ * 		Page Styles
+ */
+	 
+
+.page-inner-bottom{
+	width:auto;
+	padding:0em;
+}
+.page-inner-top-left{
+	width:auto;
+	padding:0em;
+}
+.page-inner-top-right{
+	width:auto;
+	padding:0em;
+}
+.page-inner-bottom-left{
+	width:auto;
+	padding:0em;
+}
+.page-inner-bottom-right{
+	width:auto;
+	padding:1em;
+}
+.page-inner-vertical-left{
+	width:auto;
+	padding:0em;
+	border:.1em solid #fff;
+	-moz-border-radius:.9em;
+	-webkit-border-radius:.9em;
+	padding:.2em;
+}
+.page-inner-vertical-right{
+	width:auto;
+	padding:0em;
+	background:#fff;
+	-moz-border-radius:.6em;
+	-webkit-border-radius:.6em;
+}
+

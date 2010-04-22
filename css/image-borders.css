@@ -1,0 +1,50 @@
+/*
+ * 		Page Styles
+ */
+	 
+.page{
+	margin:2em auto;
+	padding:0em;
+	background:#fff url("../img/bg_top.png") repeat-x top left;
+	width:55em;
+}
+.page-inner{
+	padding:0 0 0em 0;
+}
+
+.page-inner-bottom{
+	width:auto;
+	padding:0em;
+	background:transparent url("../img/bg_bottom.png") repeat-x bottom left;
+}
+.page-inner-top-left{
+	width:auto;
+	padding:0em;
+	background:transparent url("../img/bg_topleft.png") no-repeat top left;
+}
+.page-inner-top-right{
+	width:auto;
+	padding:0em;
+	background:transparent url("../img/bg_topright.png") no-repeat top right;
+}
+.page-inner-bottom-left{
+	width:auto;
+	padding:0em;
+	background:transparent url("../img/bg_bottomleft.png") no-repeat bottom left;
+}
+.page-inner-bottom-right{
+	width:auto;
+	padding:1em;
+	background:transparent url("../img/bg_bottomright.png") no-repeat bottom right;
+}
+.page-inner-vertical-left{
+	width:auto;
+	padding:0em;
+	background:transparent url("../img/bg_left.png") repeat-y top left;
+}
+.page-inner-vertical-right{
+	width:auto;
+	padding:0em;
+	background:transparent url("../img/bg_right.png") repeat-y top right;
+}
+

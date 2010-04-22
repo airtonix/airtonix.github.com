@@ -1,0 +1,94 @@
+	.site-menu-horizontal{
+	   width:100%;
+	   overflow:hidden;
+	   position:relative;
+	   margin:0;
+	   padding:0;
+	}
+	.site-menu-horizontal .inner{
+	   margin:0;
+	   padding:0;
+	}
+	.site-menu-horizontal ul{
+	   clear:left;
+	   float:left;
+	   list-style:none;
+	   margin:0;
+	   padding:0;
+	   position:relative;
+	   left:50%;
+	   text-align:center;
+
+	}
+	.site-menu-horizontal ul li{
+	   display:block;
+	   float:left;
+	   list-style:none;
+	   margin:0;
+	   padding:0;
+	   position:relative;
+	   right:50%;
+	}
+	.site-menu-horizontal a{
+		display:block;
+		margin:0 0 0 0;
+		padding:3px 10px;
+		background:#B8D6D6;
+		color:#000;
+		text-decoration:none;
+		line-height:1.3em;
+	}
+	.site-menu-horizontal ul li:first-child a,
+	.site-menu-horizontal ul li:first-child a:hover{
+		-moz-border-radius-bottomleft:0.4em;
+		-webkit-border-bottom-left-radius:.0.4em;
+	}
+	.site-menu-horizontal ul li:last-child a,
+	.site-menu-horizontal ul li:last-child a:hover{
+		-moz-border-radius-bottomright:0.4em;
+		-webkit-border-bottom-right-radius:0.4em;
+	}
+	
+	.site-menu-horizontal h3{
+		width:100%;
+		display:inline;
+		float:left;
+		padding:1em 0 0 0;
+		margin:0;
+		border-bottom:.4em solid #B8D6D6;
+		text-align:center;
+	}
+	.site-menu-horizontal h3 span{
+		display:none;
+	}
+	.site-menu-horizontal a:hover {
+		background-color:#D0FFF0;
+   		color:#333;
+	}
+	.site-menu-horizontal ul li a.active,
+	.site-menu-horizontal ul li a.active:hover {
+		color:#fff;
+		background:#000;
+		font-weight:bold;
+	}
+
+	.site-menu-float-right{
+		position:fixed;
+		top:25.2em;
+		width:1px;
+	}
+	.site-menu-float-right .inner{
+		position:relative;
+		width:20em;
+		left:69em;
+		text-align:left;
+	}
+	.site-menu-float-right ul{
+		padding-left:1em;
+		padding-right:1em;
+	}
+	.site-menu-float-right ul li{
+		padding-top:1em;
+		list-style:none;
+	}
+
